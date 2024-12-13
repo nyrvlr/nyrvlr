@@ -2,7 +2,6 @@
 
 - 💻 Computer Science student at Federal University of ABC
 - 🗺️ Brazilian
-- 📊 Learning and exploring Data Science
 - 📫 Contact me via email: nyr.valeria@gmail.com
 
 <div align="center">
